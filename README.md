@@ -1,8 +1,9 @@
-CRUD-with-Bootstrap
-===================
+Novan Satria Yogaswara
 
-Source Create Read Update Delete dengan Bootstrap
-Untuk informasi lebih lanjut http://mafulprayogaarnandi.blogspot.com
-# Bootcamp-Arkademy-Batch-9-Kloter-2-Soal-D
-# Bootcamp-Arkademy-Batch-9-Kloter-2-Soal-D
+Sofware yang dipergunakan adalah Atom 
+
+Menggunakan bootstrap
+ CSS,HTML,PHP, JAVASCRIPT
+ DATABASE
+ 
 # Bootcamp-Arkademy-Batch-9-Kloter-2-Soal-D
